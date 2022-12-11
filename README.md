@@ -29,3 +29,5 @@ Pull requestler kabul edlir. Büyük değişiklikler için, lütfen önce neyi d
 ##### Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[Patika.dev Hesabım](https://app.patika.dev/raser)
